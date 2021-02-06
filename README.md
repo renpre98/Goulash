@@ -22,8 +22,11 @@ Goulash (Raw) + 0.5l Water -(cooking)-> Goulash (Cooked)
 Goulash (Cooked) + 2x Recycled Can -> 2x Canned Goulash  
 
 ## Stats:
-Goulash (Raw):
-Goulash (Cooked):
+Item | Weight | Calories | Days to Decay Indoors
+-----|--------|----------|----------------------
+Goulash (Raw) | 900g | 850 | 1
+Goulash (Cooked) | 800g | 750 | 2
+Canned Goulash | 550g | 350 | 365 
   
 ### Issues:  
 No Texture in inventory and while cooking  
