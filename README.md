@@ -11,6 +11,7 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
 6. Download `Goulash.zip` from the [releases page](https://github.com/renpre98/goulash/releases)
 7. Extract its contents. Doesn't matter where.
 8. Move `Goulash_Automapped` into the `auto-mapped` folder within your mods folder.  
+9. Move the contents of `blueprints` into the `blueprints` folder within your mods folder.  
 
 *instructions modified from <a href="https://github.com/ds5678">ds5678</a>*
 
