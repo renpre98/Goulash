@@ -1,0 +1,2 @@
+C:\Users\renop\source\repos\Goulash\Unity\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Users\renop\source\repos\Goulash\Unity\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+Key, English, German, Russian
+GAMEPLAY_DeerGoulashRaw, "Deer goulash (Raw)", "Reh Gulasch (Roh)", "GAMEPLAY_DeerGoulasch"
+GAMEPLAY_DeerGoulashRawDescription, "Fresh deer goulash", "Frisches Reh Gulasch", "GAMEPLAY_DeerGoulaschDescription"
+GAMEPLAY_DeerGoulash, "Deer goulash (Cooked)", "Reh Gulasch (Gegart)", "GAMEPLAY_DeerGoulasch"
+GAMEPLAY_DeerGoulashDescription, "Fresh cooked deer goulash", "Frisch gekochtes Reh Gulasch", "GAMEPLAY_DeerGoulaschDescription"
+GAMEPLAY_CannedDeerGoulash, "Deer goulash (Canned)", "Reh Gulasch (Eingekocht)", "GAMEPLAY_CannedDeerGoulasch"
+GAMEPLAY_CannedDeerGoulashDescription, "Canned deer goulash", "Eingekochtes Reh Gulasch", "GAMEPLAY_CannedDeerGoulaschDescription"
