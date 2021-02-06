@@ -1,7 +1,8 @@
 # Goulash
 Adds goulash to the Long Dark made from Venison based on the <a href="https://github.com/ds5678/Food-Pack">food-pack</a> by <a href="https://github.com/ds5678">ds5678</a>  
-
-
+  
+  ![Deer Goulash](/Images/DeerGoulash.png)
+  
 ## Installation:  
 1. If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 2. If you haven't done so already, download the latest version of `ModComponentAPI.dll` and `ModComponentMapper.dll` from its [releases page](https://github.com/ds5678/ModComponent/releases)
