@@ -1,5 +1,9 @@
 # Goulash
-Adds goulash to the Long Dark made from Venison based on the food pack by ds5678
+Adds goulash to the Long Dark made from Venison based on the <a href="https://github.com/ds5678/Food-Pack">food-pack</a> by <a href="https://github.com/ds5678">ds5678</a>  
+
+
+## Installation:  
+
 
 ## Crafting: 
 Raw Venison (+Knife/Hatchet) -> Goulash (Raw)  
