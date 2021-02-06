@@ -19,7 +19,11 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
 ## Crafting: 
 Raw Venison (+Knife/Hatchet) -> Goulash (Raw)  
 Goulash (Raw) + 0.5l Water -(cooking)-> Goulash (Cooked)  
-Goulash (Cooked) + 2x Recycled Can -> Canned Goulash  
+Goulash (Cooked) + 2x Recycled Can -> 2x Canned Goulash  
+
+## Stats:
+Goulash (Raw):
+Goulash (Cooked):
   
 ### Issues:  
 No Texture in inventory and while cooking  
