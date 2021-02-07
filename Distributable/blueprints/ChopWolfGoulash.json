@@ -1,13 +1,13 @@
 {
     "@type": "ModComponentAPI.ModBlueprint",
-    "RequiredGear": ["GEAR_RawMeatDeer"],
+    "RequiredGear": ["GEAR_RawMeatWolf"],
     "RequiredGearUnits": [1],
     "KeroseneLitersRequired": 0,
     "RequiredTool": "GEAR_HatchetImprovised",
     "OptionalTools": ["GEAR_JeremiahKnife","GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
     "RequiredCraftingLocation": "Anywhere",
     "RequiresLight": true,
-    "CraftedResult": "GEAR_DeerGoulashRaw",
+    "CraftedResult": "GEAR_WolfGoulashRaw",
     "CraftedResultCount": 1,
     "DurationMinutes": 10,
     "CraftingAudio": "Play_HarvestMeatLoop"
