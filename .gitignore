@@ -3,3 +3,5 @@ Distributable/goulash.zip
 Unity/Assets/Models/FBX 2013
 Unity/Assets/Models/FBX 2013.meta
 Unity/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+*.xcf
+*.xcf.meta
