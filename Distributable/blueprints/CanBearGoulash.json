@@ -1,0 +1,18 @@
+{
+    "@type": "ModComponentAPI.ModBlueprint",
+    "RequiredGear": ["GEAR_BearGoulash","GEAR_RecycledCan"],
+    "RequiredGearUnits": [1,2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CannedBearGoulash",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_CookingPlacePot",
+    "AppliedSkill" : "Cooking",
+    "ImprovedSkill" : "Cooking"
+}
