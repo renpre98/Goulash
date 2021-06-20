@@ -3,12 +3,16 @@
     "RequiredGear": ["GEAR_RawMeatWolf"],
     "RequiredGearUnits": [1],
     "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
     "RequiredTool": "GEAR_HatchetImprovised",
-    "OptionalTools": ["GEAR_JeremiahKnife","GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
+    "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
     "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_WolfGoulashRaw",
     "CraftedResultCount": 1,
     "DurationMinutes": 10,
-    "CraftingAudio": "Play_HarvestMeatLoop"
+    "CraftingAudio": "Play_HarvestMeatLoop",
+    "AppliedSkill" : "Cooking",
+    "ImprovedSkill" : "Cooking"
 }
