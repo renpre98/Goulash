@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_MooseGoulashCannedRP",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_MooseGoulashCannedRPDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.6,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvRiceCooked",
+                            "PutBackAudio" : "Play_SndInvRiceCooked",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [-25, 25, -25],
+                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 5,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Grub",
+                            "CookingAudio" : "Play_BoilingLiquidThickHeavy",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 3,
+                            "DaysToDecayIndoors" : 2,
+                            "Calories" : 450,
+                            "Servings" : 1,
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingSoft",
+                            "EatingPackagedAudio" : "Play_EatingCanned",
+                            "ThirstEffect" : 5,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 25,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : true,
+                            "Fish" : false,
+                            "Canned" : true,
+
+                            "Opening" : true,
+                            "OpeningWithCanOpener" : true,
+                            "OpeningWithKnife" : true,
+                            "OpeningWithHatchet" : true,
+                            "OpeningWithSmashing" : true,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 10,
+                            "ColdFactor" : 0.75,
+                            "ColdFactorMinutes" : 30,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

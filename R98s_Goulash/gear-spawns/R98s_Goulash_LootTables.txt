@@ -1,0 +1,147 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=OnionRP w=2
+
+#----------------
+loottable=CashRegister
+#----------------
+item=OnionRP w=2
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=OnionRP w=3
+
+#----------------------
+loottable=KitchenDrawer
+#----------------------
+item=OnionRP w=3
+
+#----------------
+loottable=Freezer
+#----------------
+item=OnionRP w=8
+
+#---------------
+loottable=Fridge
+#---------------
+item=OnionRP w=5
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=OnionRP w=2
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=OnionRP w=5
+
+#---------------
+loottable=Locker
+#---------------
+item=OnionRP w=2
+
+#---------------
+loottable=LockerLocked
+#---------------
+item=OnionRP w=5
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=OnionRP w=200
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=OnionRP w=200
+
+#-------------------------
+loottable=Wardrobe_regular
+#-------------------------
+
+#-------------------------
+loottable=VehicleTrunk
+#-------------------------
+
+#-------------------------
+loottable=VehicleTrunkLocked
+#-------------------------
+
+#-------------------------
+loottable=VehicleGloveBox
+#-------------------------
+
+#-------------------------
+loottable=CargoFoodA
+#-------------------------
+item=OnionRP w=10
+
+#-------------------------
+loottable=CargoFoodB
+#-------------------------
+item=OnionRP w=3
+
+#-------------------------
+loottable=CargoFoodC
+#-------------------------
+item=OnionRP w=3
+
+#-------------------------
+loottable=CargoFoodRareA
+#-------------------------
+item=OnionRP w=1
+
+#-------------------------
+loottable=CargoFoodRareB
+#-------------------------
+item=OnionRP w=5
+
+#-------------------------
+loottable=CargoFoodRareC
+#-------------------------
+item=OnionRP w=1
+
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+
+#--------------------
+loottable=CargoMiscC
+#--------------------
+
+#-------------------------
+loottable=Safe
+#-------------------------
+
+#-------------------------
+loottable=FileCabinet
+#-------------------------
+item=OnionRP w=50
+
+#-------------------------
+loottable=Cabinet
+#-------------------------
+item=OnionRP w=2
+
+#-----------------
+loottable=Oven
+#-----------------
+
+#-----------------
+loottable=Suitcase
+#-----------------
+
+#-----------------
+loottable=Dresser
+#-----------------

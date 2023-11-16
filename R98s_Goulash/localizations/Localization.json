@@ -1,0 +1,18 @@
+{
+    "GAMEPLAY_BearGoulash": {
+        "English": "Bear goulash",
+        "German": "Bärengulasch"
+    },
+    "GAMEPLAY_BearGoulashDescription": {
+        "English": "Tastes like bear with gravy.",
+        "German": "Schmeckt wie Bär mit Soße."
+    },
+    "GAMEPLAY_BearMeatCubesRP": {
+        "English": "Bear cubes.",
+        "German": "Bärenwürfel."
+    },
+    "GAMEPLAY_BearMeatCubesRPDescription": {
+        "English": "Tastes like bear.",
+        "German": "Schmeckt wie Bär."
+    }
+}

@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: goulashrp
+  m_EditorClassIdentifier: 
+  m_GroupName: goulashrp
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4615a6edc517df2449b1ae3a9e011e2a
+  m_SerializeEntries:
+  - m_GUID: 2f78f595ed338ed46aacc5550711d6d9
+    m_Address: ico_CraftItem__BearGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53c9592ea24b3524886b8d0c2c0300aa
+    m_Address: ico_GearItem__BearGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1bd3e0a845d15145ae25fbd12877350
+    m_Address: GEAR_BearGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e13dc7b81986d2044b7c959412ae31f1
+    m_Address: GEAR_BearGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0da545a858d1ec419afdc5f6633bddf
+    m_Address: ico_GearItem__OnionRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7570c336f1fd26e488ea628af9ed95a6
+    m_Address: GEAR_OnionRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4aa44fc388adbe44cb955c2849bf562d
+    m_Address: ico_CraftItem__BearGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd3d5f663fe5b114798466976707512a
+    m_Address: ico_CraftItem__BearMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bebb63e6452432845b9f57c4852370fe
+    m_Address: ico_CraftItem__DeerGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36752206763b679458b0926d21fe8cf4
+    m_Address: ico_CraftItem__MooseGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b5b82a54eae2c847a2469bb0af3be26
+    m_Address: ico_CraftItem__MooseGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d3f0998bc8b6d248acb361076f25cc9
+    m_Address: ico_CraftItem__MooseMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6812503ab276a444b2cf3dae9c06f2b
+    m_Address: ico_CraftItem__PtarmiganGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21ebd494d0c37784085b99d97bb52140
+    m_Address: ico_CraftItem__PtarmiganGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6edbef352d611124bb580c11db2ab384
+    m_Address: ico_CraftItem__PtarmiganMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6772d8a5b95b01046b9dbc540e7503da
+    m_Address: ico_CraftItem__RabbitGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61d56cd5b23930846945254212e7668f
+    m_Address: ico_CraftItem__RabbitGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fcd07cb15e9a8a4895e3c7ba8f5f9cf
+    m_Address: ico_CraftItem__RabbitMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8257c650b5febdb4a8726ea534eae797
+    m_Address: ico_CraftItem__VenisonGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5150cd6b31bdb1c4c8bfb557bdd8435e
+    m_Address: ico_CraftItem__VenisonMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58ad5859fcdc6a64c8b4938d3d533e5b
+    m_Address: ico_CraftItem__WolfGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b43d9cf3ebecca42a7b18bffcd6b8c5
+    m_Address: ico_CraftItem__WolfGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 590a0897556a36044ad57194ad6e772e
+    m_Address: ico_CraftItem__WolfMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0b0c43b540833943ab645a7398e2ae5
+    m_Address: GEAR_BearMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85ac38815e010ca4f8cffc242349e383
+    m_Address: GEAR_MooseGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5df248b9466a4ff4fadd9753185da545
+    m_Address: GEAR_MooseGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f52d129fd23a522448d4b305611a4078
+    m_Address: GEAR_MooseMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f8b8aa525b2b664ca72b8275724690a
+    m_Address: GEAR_PtarmiganGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d39e6ecfcec36543b1b50cc69b36c0b
+    m_Address: GEAR_PtarmiganGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ed843bd15abcbf4eaa1ceb4d7008e45
+    m_Address: GEAR_PtarmiganMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b57a2dca2f1287c408683c7dc5e7658c
+    m_Address: GEAR_RabbitGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1de748252c829964295d91a79efaaa34
+    m_Address: GEAR_RabbitGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d11e7c6b746649641b41ebb61da494cd
+    m_Address: GEAR_RabbitMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6335082cfc0465b478110ce293124527
+    m_Address: GEAR_VenisonGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a46a9a2823afc9e48ada067d7cf456ec
+    m_Address: GEAR_VenisonGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2af3d9c16d26d184b9543b58518526db
+    m_Address: GEAR_VenisonMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efce77b95d166fd4293926d7add2c6af
+    m_Address: GEAR_WolfGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9887c4ac5a9c5fb448d9b046f7f24a27
+    m_Address: GEAR_WolfGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49f1988c2c253ef4bb76e9c332b8ac03
+    m_Address: GEAR_WolfMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 484082f470610934f9cf0f7661d83458
+    m_Address: ico_GearItem__BearGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83d1aebd11046ed4d94acabafdbca488
+    m_Address: ico_GearItem__BearMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bc103c648373f746974afb9d0019c63
+    m_Address: ico_GearItem__DeerGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e01d00a911bcc942bf3265c8214f25e
+    m_Address: ico_GearItem__MooseGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4f8562fcba287c4a85f430f4f7837df
+    m_Address: ico_GearItem__MooseGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 478e5af70ad9828449948ddf71ad02e8
+    m_Address: ico_GearItem__MooseMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2a0e0924018de7498c7a47314ee1fe3
+    m_Address: ico_GearItem__PtarmiganGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ee638bfb205316489cbe00b4e617253
+    m_Address: ico_GearItem__PtarmiganGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f8baa1a95cbaef4bba0b0c6d4ddce8c
+    m_Address: ico_GearItem__PtarmiganMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e38a6ffdda9b4f4ba74e66126492194
+    m_Address: ico_GearItem__RabbitGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b455143d844db8459ed1856c0eabe40
+    m_Address: ico_GearItem__RabbitGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b341b6af77ea8984b997a6981b0d0223
+    m_Address: ico_GearItem__RabbitMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9262603b44f0e1b4dba496477ae926f7
+    m_Address: ico_GearItem__VenisonGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc86301dd99bc1841b12ed081a8b3d59
+    m_Address: ico_GearItem__VenisonMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 175afe1ee1c05ed438d11a505450ca91
+    m_Address: ico_GearItem__WolfGoulashCannedRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce51a496b88e2c04381afa94ea2a71f7
+    m_Address: ico_GearItem__WolfGoulashRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 937bec07a289d2b43b9d2e9ee2f0d4cc
+    m_Address: ico_GearItem__WolfMeatCubesRP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9e97b99701443214c9b039fd85b0b94c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a95d704c92915354cb088b53cf67facc, type: 2}
+    - {fileID: 11400000, guid: c12ea6d0f3ffc45489fbca2af7c3b044, type: 2}

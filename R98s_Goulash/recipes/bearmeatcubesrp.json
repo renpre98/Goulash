@@ -1,0 +1,27 @@
+{
+    "RecipeName": "Bear Meat Cubes",
+    "RecipeDescription": "GAMEPLAY_BearMeatCubesRPDescription",
+    "RecipeIcon": "ico_GearItem__BearMeatCubesRP",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": ["GEAR_Skillet"],
+    "BlueprintData": {
+        "Name": "REC_BlueberryPie",
+        "RequiredGear": [{
+                "Item": "GEAR_RawMeatBear",
+                "Quantity": 0.5
+            },
+			{
+                "Item": "GEAR_CookingOil",
+                "Count": 1
+            }
+        ],
+		"RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.4}],
+		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":0.2}],
+        "CraftedResult": "GEAR_BearMeatCubesRP",
+        "CraftedResultCount": 3,
+        "RequiredTool": "GEAR_HatchetImprovised",
+        "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
+        "DurationMinutes": 20,
+        "CraftingAudio": "PLAY_CRAFTINGPIE"
+    }
+}

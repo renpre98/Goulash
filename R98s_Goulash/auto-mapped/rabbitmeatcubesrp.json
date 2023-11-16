@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_RabbitMeatCubesRP",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_RabbitMeatCubesRPDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.45,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvRiceCooked",
+                            "PutBackAudio" : "Play_SndInvRiceCooked",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [-25, 25, -25],
+                            "InspectOffset" : [0, -0.1, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 0,
+                            "CookingUnitsRequired" : 0,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 0,
+                            "Type" : "Meat",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 2,
+                            "DaysToDecayIndoors" : 1,
+                            "Calories" : 400,
+                            "Servings" : 1,
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : 5,
+
+                            "FoodPoisoning" : 25,
+                            "FoodPoisoningLowCondition" : 75,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : true,
+                            "Drink" : false,
+                            "Meat" : true,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 10,
+                            "ColdFactor" : 0.75,
+                            "ColdFactorMinutes" : 30,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}
