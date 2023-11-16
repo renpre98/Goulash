@@ -36,3 +36,4 @@ To-do...
   
 ### Issues:  
 No crafting icon in cooking menu. No Cooking liquid Texture.  
+Ptarmigan Font is different, because I did not get to ask my sister to draw the new texture 
