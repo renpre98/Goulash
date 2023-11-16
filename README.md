@@ -5,6 +5,7 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
   
 ## Installation:  
 ### Dependencies:  
+#### NEEDS THE DLC  
 1. Install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 2. Download the latest version of `ModComponent.dll` in its [latest release](https://github.com/dommrogers/ModComponent/releases/latest/download/ModComponent.dll)
 3. Download the latest version of `ModSettings.dll` in its [latest release](https://github.com/zeobviouslyfakeacc/ModSettings/releases/latest/download/ModSettings.dll)
@@ -20,7 +21,13 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
 *instructions modified from <a href="https://github.com/ds5678">ds5678</a>*
 
 ## Crafting: 
-To-do...
+Every goulash item can be crafted in the same way.  
+You need a skillet and a burning fire.  
+The recipe contains an onion, cooking oil, salt and 1kg of the corresponding meat.  
+This will craft 2 servings of *meat name* goulash. This can be eaten on the spot or canned.  
+To can it you need at least simple tools and a workbench along with one recycled can per serving.  
+The uncanned goulash will decay very fast (in one day) because I am currently not checking wheather or not it is still hot when canned.   
+Canned goulash will stay edible for 100 days.
 
 ## Stats:
 Item | Weight | Calories | Days to Decay Indoors
