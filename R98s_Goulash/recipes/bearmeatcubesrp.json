@@ -1,27 +1,35 @@
 {
-    "RecipeName": "Bear Meat Cubes",
-    "RecipeDescription": "GAMEPLAY_BearMeatCubesRPDescription",
-    "RecipeIcon": "ico_GearItem__BearMeatCubesRP",
+    "RecipeName": "GAMEPLAY_BearGoulashRP",
+    "RecipeDescription": "GAMEPLAY_BearGoulashRPDescription",
+    "RecipeIcon": "ico_CraftItem__BearGoulashRP",
     "RequiredSkillLevel": 1,
-    "AllowedCookingPots": ["GEAR_Skillet"],
+    "AllowedCookingPots": ["GEAR_CookingPot"],
     "BlueprintData": {
-        "Name": "REC_BlueberryPie",
+        "Name": "REC_BearGoulashRP",
         "RequiredGear": [{
                 "Item": "GEAR_RawMeatBear",
-                "Quantity": 0.5
+                "Quantity": 1.0
+            },
+			{
+                "Item": "GEAR_OnionRP",
+                "Count": 2
             },
 			{
                 "Item": "GEAR_CookingOil",
                 "Count": 1
+            },
+			{
+                "Item": "GEAR_Salt",
+                "Quantity": 0.01
             }
         ],
-		"RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.4}],
+		"RequiredPowder":[],
 		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":0.2}],
         "CraftedResult": "GEAR_BearMeatCubesRP",
-        "CraftedResultCount": 3,
+        "CraftedResultCount": 2,
         "RequiredTool": "GEAR_HatchetImprovised",
         "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
         "DurationMinutes": 20,
-        "CraftingAudio": "PLAY_CRAFTINGPIE"
+        "CraftingAudio": "Play_HarvestMeatLoop"
     }
 }

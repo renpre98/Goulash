@@ -50,7 +50,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: bebb63e6452432845b9f57c4852370fe
-    m_Address: ico_CraftItem__DeerGoulashCannedRP
+    m_Address: ico_CraftItem__VenisonGoulashCannedRP
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 36752206763b679458b0926d21fe8cf4
@@ -182,7 +182,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 5bc103c648373f746974afb9d0019c63
-    m_Address: ico_GearItem__DeerGoulashCannedRP
+    m_Address: ico_GearItem__VenisonGoulashCannedRP
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 3e01d00a911bcc942bf3265c8214f25e

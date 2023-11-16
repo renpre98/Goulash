@@ -1,0 +1,17 @@
+{
+    "Name": "wolfgoulashcannedrp",
+    "RequiredGear": [{"Item": "GEAR_WolfGoulashRP", "Count": 1},{"Item": "GEAR_RecycledCan", "Count": 1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WolfGoulashCannedRP",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_CookingPlacePot",
+    "AppliedSkill" : "Cooking",
+    "ImprovedSkill" : "Cooking"
+}

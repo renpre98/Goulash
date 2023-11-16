@@ -26,9 +26,9 @@
                             "CookingWaterRequired" : 0,
                             "CookingResult" : "GEAR_BearGoulashRP",
                             "BurntMinutes" : 20,
-                            "Type" : "Meat",
-                            "CookingAudio" : "PLAY_COOKPIE",
-                            "StartCookingAudio" : "PLAY_COOKINGPLACEMENTPIE",
+                            "Type" : "Grub",
+                            "CookingAudio" : "Play_BoilingLiquidThickLight",
+                            "StartCookingAudio" : "Play_CookingPlacePot",
 
                             "DaysToDecayOutdoors" : 2,
                             "DaysToDecayIndoors" : 1,

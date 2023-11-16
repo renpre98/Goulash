@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_PtarmiganGoulashRP",
                             "DescriptionLocalizatonId" : "GAMEPLAY_PtarmiganGoulashRPDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.5,
+                            "WeightKG": 0.400,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
@@ -32,7 +32,7 @@
 
                             "DaysToDecayOutdoors" : 3,
                             "DaysToDecayIndoors" : 2,
-                            "Calories" : 450,
+                            "Calories" : 258,
                             "Servings" : 1,
                             "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingSoft",

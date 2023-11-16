@@ -1,7 +1,7 @@
 # Goulash
 Adds goulash to the Long Dark made from Venison based on the <a href="https://github.com/ds5678/Food-Pack">food-pack</a> by <a href="https://github.com/ds5678">ds5678</a>  
   
-  ![Deer Goulash](/Images/DeerGoulash.png)
+  ![Deer Goulash](/Images/Goulash.png)
   
 ## Installation:  
 ### Dependencies:  

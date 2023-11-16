@@ -1,0 +1,35 @@
+{
+    "RecipeName": "GAMEPLAY_PtarmiganGoulashRP",
+    "RecipeDescription": "GAMEPLAY_PtarmiganGoulashRPDescription",
+    "RecipeIcon": "ico_CraftItem__PtarmiganGoulashRP",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": ["GEAR_CookingPot"],
+    "BlueprintData": {
+        "Name": "REC_PtarmiganGoulashRP",
+        "RequiredGear": [{
+                "Item": "GEAR_RawMeatPtarmigan",
+                "Quantity": 1.0
+            },
+			{
+                "Item": "GEAR_OnionRP",
+                "Count": 2
+            },
+			{
+                "Item": "GEAR_CookingOil",
+                "Count": 1
+            },
+			{
+                "Item": "GEAR_Salt",
+                "Quantity": 0.01
+            }
+        ],
+		"RequiredPowder":[],
+		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":0.2}],
+        "CraftedResult": "GEAR_PtarmiganMeatCubesRP",
+        "CraftedResultCount": 2,
+        "RequiredTool": "GEAR_HatchetImprovised",
+        "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
+        "DurationMinutes": 20,
+        "CraftingAudio": "Play_HarvestMeatLoop"
+    }
+}

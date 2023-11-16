@@ -1,18 +1,164 @@
 {
-    "GAMEPLAY_BearGoulash": {
+    "GAMEPLAY_OnionRP": {
+        "English": "Onion",
+        "German": "Zwiebel"
+    },
+    "GAMEPLAY_OnionRPDescription": {
+        "English": "Tear-inducing layered flavor orb.",
+        "German": "Tränenreiche, geschichtete Geschmackskugel."
+    },
+    "GAMEPLAY_BearMeatCubesRP": {
+        "English": "Bear goulash (raw)",
+        "German": "Bärengulasch (roh)"
+    },
+    "GAMEPLAY_BearMeatCubesRPDescription": {
+        "English": "Tastes like bear with onion.",
+        "German": "Schmeckt wie Bär mit Zwiebeln."
+    },
+    "GAMEPLAY_BearGoulashRP": {
         "English": "Bear goulash",
         "German": "Bärengulasch"
     },
-    "GAMEPLAY_BearGoulashDescription": {
+    "GAMEPLAY_BearGoulashRPDescription": {
         "English": "Tastes like bear with gravy.",
         "German": "Schmeckt wie Bär mit Soße."
     },
-    "GAMEPLAY_BearMeatCubesRP": {
-        "English": "Bear cubes.",
-        "German": "Bärenwürfel."
+    "GAMEPLAY_BearGoulashCannedRP": {
+        "English": "Bear goulash (Canned)",
+        "German": "Bärengulasch (Eingekocht)"
     },
-    "GAMEPLAY_BearMeatCubesRPDescription": {
-        "English": "Tastes like bear.",
-        "German": "Schmeckt wie Bär."
+    "GAMEPLAY_BearGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
+    }
+
+    ,
+    "GAMEPLAY_MooseMeatCubesRP": {
+        "English": "Moose goulash (raw)",
+        "German": "Elchgulasch (roh)"
+    },
+    "GAMEPLAY_MooseMeatCubesRPDescription": {
+        "English": "Tastes like Moose with onion.",
+        "German": "Schmeckt wie Elch mit Zwiebeln."
+    },
+    "GAMEPLAY_MooseGoulashRP": {
+        "English": "Moose goulash",
+        "German": "Elchgulasch"
+    },
+    "GAMEPLAY_MooseGoulashRPDescription": {
+        "English": "Tastes like Moose with gravy.",
+        "German": "Schmeckt wie Elch mit Soße."
+    },
+    "GAMEPLAY_MooseGoulashCannedRP": {
+        "English": "Moose goulash (Canned)",
+        "German": "Elchgulasch (Eingekocht)"
+    },
+    "GAMEPLAY_MooseGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
+    }
+
+    ,
+    "GAMEPLAY_PtarmiganMeatCubesRP": {
+        "English": "Ptarmigan goulash (raw)",
+        "German": "Schneehuhngulasch (roh)"
+    },
+    "GAMEPLAY_PtarmiganMeatCubesRPDescription": {
+        "English": "Tastes like Ptarmigan with onion.",
+        "German": "Schmeckt wie Schneehuhn mit Zwiebeln."
+    },
+    "GAMEPLAY_PtarmiganGoulashRP": {
+        "English": "Ptarmigan goulash",
+        "German": "Schneehuhngulasch"
+    },
+    "GAMEPLAY_PtarmiganGoulashRPDescription": {
+        "English": "Tastes like Ptarmigan with gravy.",
+        "German": "Schmeckt wie Schneehuhn mit Soße."
+    },
+    "GAMEPLAY_PtarmiganGoulashCannedRP": {
+        "English": "Ptarmigan goulash (Canned)",
+        "German": "Schneehuhngulasch (Eingekocht)"
+    },
+    "GAMEPLAY_PtarmiganGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
+    }
+
+    ,
+    "GAMEPLAY_RabbitMeatCubesRP": {
+        "English": "Rabbit goulash (raw)",
+        "German": "Kaninchengulasch (roh)"
+    },
+    "GAMEPLAY_RabbitMeatCubesRPDescription": {
+        "English": "Tastes like Rabbit with onion.",
+        "German": "Schmeckt wie Kaninchen mit Zwiebeln."
+    },
+    "GAMEPLAY_RabbitGoulashRP": {
+        "English": "Rabbit goulash",
+        "German": "Kaninchengulasch"
+    },
+    "GAMEPLAY_RabbitGoulashRPDescription": {
+        "English": "Tastes like Rabbit with gravy.",
+        "German": "Schmeckt wie Kaninchen mit Soße."
+    },
+    "GAMEPLAY_RabbitGoulashCannedRP": {
+        "English": "Rabbit goulash (Canned)",
+        "German": "Kaninchengulasch (Eingekocht)"
+    },
+    "GAMEPLAY_RabbitGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
+    }
+
+    ,
+    "GAMEPLAY_VenisonMeatCubesRP": {
+        "English": "Venison goulash (raw)",
+        "German": "Rehgulasch (roh)"
+    },
+    "GAMEPLAY_VenisonMeatCubesRPDescription": {
+        "English": "Tastes like Venison with onion.",
+        "German": "Schmeckt wie Reh mit Zwiebeln."
+    },
+    "GAMEPLAY_VenisonGoulashRP": {
+        "English": "Venison goulash",
+        "German": "Rehgulasch"
+    },
+    "GAMEPLAY_VenisonGoulashRPDescription": {
+        "English": "Tastes like Venison with gravy.",
+        "German": "Schmeckt wie Reh mit Soße."
+    },
+    "GAMEPLAY_VenisonGoulashCannedRP": {
+        "English": "Venison goulash (Canned)",
+        "German": "Rehgulasch (Eingekocht)"
+    },
+    "GAMEPLAY_VenisonGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
+    }
+
+    ,
+    "GAMEPLAY_WolfMeatCubesRP": {
+        "English": "Wolf goulash (raw)",
+        "German": "Wolfsgulasch (roh)"
+    },
+    "GAMEPLAY_WolfMeatCubesRPDescription": {
+        "English": "Tastes like Wolf with onion.",
+        "German": "Schmeckt wie Wolf mit Zwiebeln."
+    },
+    "GAMEPLAY_WolfGoulashRP": {
+        "English": "Wolf goulash",
+        "German": "Wolfsgulasch"
+    },
+    "GAMEPLAY_WolfGoulashRPDescription": {
+        "English": "Tastes like Wolf with gravy.",
+        "German": "Schmeckt wie Wolf mit Soße."
+    },
+    "GAMEPLAY_WolfGoulashCannedRP": {
+        "English": "Wolf goulash (Canned)",
+        "German": "Wolfsgulasch (Eingekocht)"
+    },
+    "GAMEPLAY_WolfGoulashCannedRPDescription": {
+        "English": "Canned to last longer.",
+        "German": "Eingekocht, damit es länger haltbar ist."
     }
 }
