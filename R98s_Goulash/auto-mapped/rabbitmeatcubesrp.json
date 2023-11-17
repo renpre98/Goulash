@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_RabbitMeatCubesRP",
                             "DescriptionLocalizatonId" : "GAMEPLAY_RabbitMeatCubesRPDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.45,
+                            "WeightKG": 0.645,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
@@ -32,7 +32,7 @@
 
                             "DaysToDecayOutdoors" : 2,
                             "DaysToDecayIndoors" : 1,
-                            "Calories" : 400,
+                            "Calories" : 346,
                             "Servings" : 1,
                             "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingMeat",
