@@ -11,7 +11,8 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
 3. Download the latest version of `ModSettings.dll` in its [latest release](https://github.com/zeobviouslyfakeacc/ModSettings/releases/latest/download/ModSettings.dll)
 4. Download the latest version of `GearSpawner.dll` in its [latest release](https://github.com/dommrogers/GearSpawner/releases/latest/download/GearSpawner.dll)
 5. Download the latest version of `LocalizationUtilities.dll` in its [latest release](https://github.com/dommrogers/LocalizationUtilities/releases/latest/download/LocalizationUtilities.dll)
-6. Download the latest version of `CraftingRevisions.dll` in its [latest release](https://github.com/dommrogers/CraftingRevisions/releases/latest/download/CraftingRevisions.dll)
+~~6. Download the latest version of `CraftingRevisions.dll` in its [latest release](https://github.com/dommrogers/CraftingRevisions/releases/latest/download/CraftingRevisions.dll)~~  
+6. As of 17.11.2023 Crafting revisions does not support kilograms so this will only work with a [modified version](https://github.com/renpre98/CraftingRevisions/releases/download/v2.2.3/CraftingRevisions.dll)
 7. Move all downloaded `.dll` files into the `Mods` folder in your TLD install directory.
 ### Main Mod:  
 1. Download the latest `goulash.modcomponent` from [here](https://github.com/renpre98/Goulash/releases/latest/download/goulash.modcomponent)
