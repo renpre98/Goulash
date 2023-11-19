@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_VenisonGoulashRP",
                             "DescriptionLocalizatonId" : "GAMEPLAY_VenisonGoulashRPDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.400,
+                            "WeightKG": 0.800,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
@@ -32,7 +32,7 @@
 
                             "DaysToDecayOutdoors" : 3,
                             "DaysToDecayIndoors" : 2,
-                            "Calories" : 496,
+                            "Calories" : 992,
                             "Servings" : 1,
                             "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingSoft",

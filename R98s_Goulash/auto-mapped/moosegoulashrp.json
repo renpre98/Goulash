@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_MooseGoulashRP",
                             "DescriptionLocalizatonId" : "GAMEPLAY_MooseGoulashRPDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.4,
+                            "WeightKG": 0.8,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
@@ -32,7 +32,7 @@
 
                             "DaysToDecayOutdoors" : 3,
                             "DaysToDecayIndoors" : 2,
-                            "Calories" : 456,
+                            "Calories" : 912,
                             "Servings" : 1,
                             "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingSoft",

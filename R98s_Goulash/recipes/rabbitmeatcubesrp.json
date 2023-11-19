@@ -12,7 +12,7 @@
             },
 			{
                 "Item": "GEAR_OnionRP",
-                "Count": 2
+                "Count": 1
             },
 			{
                 "Item": "GEAR_CookingOil",
@@ -26,7 +26,7 @@
 		"RequiredPowder":[],
 		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":0.2}],
         "CraftedResult": "GEAR_RabbitMeatCubesRP",
-        "CraftedResultCount": 2,
+        "CraftedResultCount": 1,
         "RequiredTool": "GEAR_HatchetImprovised",
         "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
         "DurationMinutes": 20,
