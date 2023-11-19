@@ -30,8 +30,8 @@
                             "CookingAudio" : "Play_BoilingLiquidThickHeavy",
                             "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 3,
-                            "DaysToDecayIndoors" : 2,
+                            "DaysToDecayOutdoors" : 100,
+                            "DaysToDecayIndoors" : 100,
                             "Calories" : 496,
                             "Servings" : 1,
                             "EatingTime" : 3,
