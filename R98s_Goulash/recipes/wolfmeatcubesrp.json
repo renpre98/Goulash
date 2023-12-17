@@ -8,6 +8,7 @@
         "Name": "REC_WolfGoulashRP",
         "RequiredGear": [{
                 "Item": "GEAR_RawMeatWolf",
+                "Units": "Kilograms",
                 "Quantity": 1.0
             },
 			{
@@ -20,6 +21,7 @@
             },
 			{
                 "Item": "GEAR_Salt",
+                "Units": "Kilograms",
                 "Quantity": 0.01
             }
         ],
