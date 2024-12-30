@@ -1,37 +1,38 @@
 {
-    "RecipeName": "GAMEPLAY_WolfGoulashRP",
-    "RecipeDescription": "GAMEPLAY_WolfGoulashRPDescription",
-    "RecipeIcon": "ico_CraftItem__WolfGoulashRP",
-    "RequiredSkillLevel": 1,
-    "AllowedCookingPots": ["GEAR_CookingPot"],
-    "BlueprintData": {
-        "Name": "REC_WolfGoulashRP",
-        "RequiredGear": [{
-                "Item": "GEAR_RawMeatWolf",
-                "Units": "Kilograms",
-                "Quantity": 1.0
-            },
+	"RecipeName": "GAMEPLAY_WolfGoulashRP",
+	"RecipeDescription": "GAMEPLAY_WolfGoulashRPDescription",
+	"RecipeIcon": "ico_CraftItem__WolfGoulashRP",
+	"RequiredSkillLevel": 1,
+	"AllowedCookingPots": ["GEAR_CookingPot"],
+	"BlueprintData": {
+		"Name": "REC_WolfGoulashRP",
+		"RequiredGear": [{
+				"Item": "GEAR_RawMeatWolf",
+				"Units": "Kilograms",
+				"Quantity": 1.0
+			},
 			{
-                "Item": "GEAR_OnionRP",
-                "Count": 1
-            },
+				"Item": "GEAR_OnionRP",
+				"Count": 1
+			},
 			{
-                "Item": "GEAR_CookingOil",
-                "Count": 1
-            },
+				"Item": "GEAR_CookingOil",
+				"Units": "Kilograms",
+				"Quantity": 0.03
+			},
 			{
-                "Item": "GEAR_Salt",
-                "Units": "Kilograms",
-                "Quantity": 0.01
-            }
-        ],
+				"Item": "GEAR_Salt",
+				"Units": "Kilograms",
+				"Quantity": 0.01
+			}
+		],
 		"RequiredPowder":[],
 		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":0.2}],
-        "CraftedResult": "GEAR_WolfMeatCubesRP",
-        "CraftedResultCount": 1,
-        "RequiredTool": "GEAR_HatchetImprovised",
-        "OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
-        "DurationMinutes": 20,
-        "CraftingAudio": "Play_HarvestMeatLoop"
-    }
+		"CraftedResult": "GEAR_WolfMeatCubesRP",
+		"CraftedResultCount": 1,
+		"RequiredTool": "GEAR_HatchetImprovised",
+		"OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
+		"DurationMinutes": 20,
+		"CraftingAudio": "Play_HarvestMeatLoop"
+	}
 }
