@@ -33,6 +33,6 @@
 		"RequiredTool": "GEAR_HatchetImprovised",
 		"OptionalTools": ["GEAR_Knife","GEAR_KnifeScrapMetal","GEAR_Hatchet","GEAR_KnifeImprovised"],
 		"DurationMinutes": 20,
-		"CraftingAudio": "Play_HarvestMeatLoop"
+		"CraftingAudio": "Play_CookStew"
 	}
 }
