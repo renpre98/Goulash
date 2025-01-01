@@ -1,0 +1,13 @@
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\bin\Debug\net6.0\Goulash.deps.json
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\bin\Debug\net6.0\Goulash.dll
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\bin\Debug\net6.0\Goulash.pdb
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.csproj.AssemblyReference.cache
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.AssemblyInfoInputs.cache
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.AssemblyInfo.cs
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.csproj.CoreCompileInputs.cache
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.sourcelink.json
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.dll
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\refint\Goulash.dll
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\Goulash.pdb
+C:\Users\renop\source\repos\Goulash\VisualStudio\Goulash\obj\Debug\net6.0\ref\Goulash.dll
