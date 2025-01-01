@@ -35,5 +35,5 @@ Item | Weight | Calories | Days to Decay Indoors
 To-do...
   
 ### Issues:  
-No crafting icon in cooking menu. No Cooking liquid Texture.  
+No crafting icon in cooking menu.
 Ptarmigan Font is different, because I did not get to ask my sister to draw the new texture 
