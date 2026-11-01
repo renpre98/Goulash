@@ -1,14 +1,36 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <!--Path to the game. Override on the command line with -p:TheLongDarkPath=...-->
+    <TheLongDarkPath Condition="'$(TheLongDarkPath)' == '' And '$(OS)' == 'Windows_NT'">C:\Program Files (x86)\Steam\steamapps\common\TheLongDark</TheLongDarkPath>
+    <TheLongDarkPath Condition="'$(TheLongDarkPath)' == ''">$(HOME)/.local/share/Steam/steamapps/common/TheLongDark</TheLongDarkPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <DebugType>none</DebugType>
+    <!--Polyfill in BuildSupport/ replaces the NullableAttribute that Unity 6's CoreModule exposes.-->
+    <NoWarn>$(NoWarn);CS0436</NoWarn>
   </PropertyGroup>
 
+  <!--Compile against the game's own MelonLoader-generated assemblies so API changes show up as compile errors.-->
+  <ItemDefinitionGroup>
+    <Reference>
+      <Private>False</Private>
+    </Reference>
+  </ItemDefinitionGroup>
   <ItemGroup>
-    <PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.36.0" />
-    <PackageReference Include="STBlade.Modding.TLD.ModComponent" Version="6.2.3" />
+    <Reference Include="$(TheLongDarkPath)/MelonLoader/net6/MelonLoader.dll" />
+    <Reference Include="$(TheLongDarkPath)/MelonLoader/net6/Il2CppInterop.Runtime.dll" />
+    <Reference Include="$(TheLongDarkPath)/MelonLoader/net6/Il2CppInterop.Common.dll" />
+    <Reference Include="$(TheLongDarkPath)/MelonLoader/Il2CppAssemblies/*.dll" />
+    <Reference Include="$(TheLongDarkPath)/Mods/ModComponent.dll" />
   </ItemGroup>
+
+  <Target Name="CopyToMods" AfterTargets="Build" Condition="'$(CopyToMods)' == 'true'">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(TheLongDarkPath)/Mods" />
+  </Target>
 
 </Project>
