@@ -12,3 +12,5 @@ Unity/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
 /Unity/Goulasch/Temp
 /Working
 /Unity/Goulasch/UserSettings
+**/bin/
+**/obj/
