@@ -3,6 +3,8 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
   
   ![Deer Goulash](/Images/Goulash.png)
   
+Compatible with The Long Dark 2.59 (Goulash 1.3.1 and newer).  
+  
 ## Installation:  
 ### Dependencies:  
 #### NEEDS THE DLC  
@@ -15,8 +17,9 @@ Adds goulash to the Long Dark made from Venison based on the <a href="https://gi
 7. Move all downloaded `.dll` files into the `Mods` folder in your TLD install directory.
 ### Main Mod:  
 1. Download the latest `goulash.modcomponent` from [here](https://github.com/renpre98/Goulash/releases/latest/download/goulash.modcomponent)
-2. Move `goulash.modcomponent` into the `Mods` folder in your TLD install directory.
-3. Start The Long Dark.  
+2. Download the latest `Goulash.dll` from [here](https://github.com/renpre98/Goulash/releases/latest/download/Goulash.dll)
+3. Move `goulash.modcomponent` and `Goulash.dll` into the `Mods` folder in your TLD install directory.
+4. Start The Long Dark.  
 
 *instructions modified from <a href="https://github.com/ds5678">ds5678</a>*
 
