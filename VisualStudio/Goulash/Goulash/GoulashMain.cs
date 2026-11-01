@@ -19,7 +19,7 @@ namespace Goulash
     {
       if (!vanillaLiquidMaterial)
       {
-        vanillaLiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
+        vanillaLiquidMaterial = new Material(RadialSpawnManager.GetPrefabFromName("GEAR_CoffeeCup").GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
 
         vanillaLiquidMaterial.name = "Liquid";
       }
@@ -53,7 +53,7 @@ namespace Goulash
 
           for (int i = 0; i < cookableGear.Count; i++)
           {
-            potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+            potGear = RadialSpawnManager.GetPrefabFromName("GEAR_" + cookableGear[i]);
 
             if (potGear == null) continue;
 
