@@ -22,13 +22,11 @@ Compatible with The Long Dark 2.59 and 2.60 (Goulash 1.3.1 and newer).
 *instructions modified from <a href="https://github.com/ds5678">ds5678</a>*
 
 ## Crafting: 
-Every goulash item can be crafted in the same way.  
-You need a skillet and a burning fire.  
-The recipe contains an onion, cooking oil, salt and 1kg of the corresponding meat.  
-This will craft 2 servings of *meat name* goulash. This can be eaten on the spot or canned.  
-To can it you need at least simple tools and a workbench along with one recycled can per serving.  
-The uncanned goulash will decay very fast (in one day) because I am currently not checking wheather or not it is still hot when canned.   
-Canned goulash will stay edible for 100 days.
+Every goulash is made the same way: as a recipe in the cooking menu, in a cooking pot on a fire.  
+The recipe needs 1 kg of the corresponding raw meat, an onion, cooking oil (0.03 kg), salt (0.01 kg) and 0.2 L of potable water, and a knife or hatchet to cut the meat.  
+Once cooked you get one goulash (642 to 1092 calories, depending on the meat). It can be eaten on the spot or canned.  
+To can it you need simple tools, light and two recycled cans: one goulash makes two cans with half its calories each.  
+Uncanned goulash decays within two days (three outdoors), canned goulash stays edible for 100 days.
 
 ## Stats:
 Item | Weight | Calories | Days to Decay Indoors
